@@ -10,7 +10,7 @@
 
 - Avoir ESXI 6.7 ou plus
 
-- Avoir un Windows Server 2016 ou 2019 (virtuel ou physique, les deux marchent) avec autorité de certification et IIS (cf. [Installation autorité de certification et installation de IIS]: modop_cert_esxi.md#Installation IIS et autorité de certification)
+- Avoir un Windows Server 2016 ou 2019 (virtuel ou physique, les deux marchent) avec autorité de certification et IIS (cf. [Installation autorité de certification et installation de IIS](modop_cert_esxi.md#Installation IIS et autorité de certification))
 
   # 
 
