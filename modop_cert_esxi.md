@@ -22,11 +22,11 @@
 
 1.  Dans Gestionnaire de serveur, Cliquez sur ***Ajout des roles et fonctionnalitées***
 
-   ![C:\Users\JNBG8094\Desktop\MD\Cert\image_thumb3_thumb](C:\Users\JNBG8094\Desktop\MD\Cert\image_thumb3_thumb.png)
+   ![Desktop\MD\Cert\image_thumb3_thumb](Desktop\MD\Cert\image_thumb3_thumb.png)
 
 2. Sur le wizard ouvert, cliquez simplement sur `Suivant`
 
-   ![C:\Users\JNBG8094\Desktop\MD\Cert\image_thumb6_thumb](C:\Users\JNBG8094\Desktop\MD\Cert\image_thumb6_thumb.png)
+   ![Desktop\MD\Cert\image_thumb6_thumb](Desktop\MD\Cert\image_thumb6_thumb.png)
 
 3. Dans ***Type d'installation*** sélectionnez `Installation de rôles ou fonctionnalités`
 
@@ -38,7 +38,7 @@
 
 6. Dans ***Fonctionnalités***, vérifiez que `.NET Framework 3.5 et 4.5` sont activés
 
-   ![C:\Users\JNBG8094\Desktop\MD\Cert\server-manager-windows-2016-7](C:\Users\JNBG8094\Desktop\MD\Cert\server-manager-windows-2016-7.png)
+   ![Desktop\MD\Cert\server-manager-windows-2016-7](Desktop\MD\Cert\server-manager-windows-2016-7.png)
 
 7. Cliquez sur `suivant` jusqu'a ***Role Services***, si vous voulez ajouter des rôles supplémentaires, vous pouvez le faire plutard
 
@@ -62,11 +62,11 @@
 
    1. Dans Gestionnaire de serveur, cliquez sur ***Ajout des roles et fonctionnalitées***
 
-      ![C:\Users\JNBG8094\Desktop\MD\Cert\image_thumb3_thumb](C:\Users\JNBG8094\Desktop\MD\Cert\image_thumb3_thumb.png)
+      ![Desktop\MD\Cert\image_thumb3_thumb](Desktop\MD\Cert\image_thumb3_thumb.png)
 
    2. Sur la boite de dialogue ***Avant de commencer***, `suivant` 
 
-      ![C:\Users\JNBG8094\Desktop\MD\Cert\image_thumb6_thumb](C:\Users\JNBG8094\Desktop\MD\Cert\image_thumb6_thumb.png)
+      ![Desktop\MD\Cert\image_thumb6_thumb](Desktop\MD\Cert\image_thumb6_thumb.png)
 
    3. Dans ***Type d'installation*** sélectionnez `Installation de rôles ou fonctionnalités`
 
